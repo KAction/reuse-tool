@@ -6,7 +6,7 @@ python-debian==0.1.36
 requests==2.22.0
 license-expression==1.2
 boolean.py==3.7
-Jinja2==2.10.3
+Jinja2==2.11.3
 binaryornot==0.4.4
 
 sphinx==2.2.1
